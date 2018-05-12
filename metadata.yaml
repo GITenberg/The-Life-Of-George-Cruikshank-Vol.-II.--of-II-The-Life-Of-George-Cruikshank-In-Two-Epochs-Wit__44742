@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5204
     wikipedia: http://en.wikipedia.org/wiki/William_Blanchard_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44742#The-Life-Of-George-Cruikshank-Vol.-II.--of-II-The-Life-Of-George-Cruikshank-In-Two-Epochs-Wit_
 gutenberg_issued: '2014-01-23'
 gutenberg_type: Text
 identifiers:
